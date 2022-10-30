@@ -22,8 +22,8 @@ to this section's matching END comment to see page-specific styles.
   --wrapper-height: 87vh;
   --image-max-width: 300px;
   --image-margin: 3rem;
-  --font-family: "HK Grotesk";
-  --font-family-header: "HK Grotesk";
+  --font-family: "ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif";
+  --font-family-header: "ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif";
 }
 
 /* Basic page style resets */
