@@ -36,20 +36,16 @@ to this section's matching END comment to see page-specific styles.
 
 /* Import fonts */
 @font-face {
-  font-family: HK Grotesk;
-  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
-    format("opentype");
+  font-family: ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif;
 }
 @font-face {
-  font-family: HK Grotesk;
+  font-family: ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif;
   font-weight: bold;
-  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
-    format("opentype");
 }
 
 /* Our remix on glitch button */
 .btn--remix {
-  font-family: HK Grotesk;
+  font-family: ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif;
   padding: 0.75rem 1rem;
   font-size: 1.1rem;
   line-height: 1rem;
@@ -86,7 +82,7 @@ to this section's matching END comment to see page-specific styles.
 
 .footer a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
-  font-family: HK Grotesk;
+  font-family: ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
@@ -111,7 +107,7 @@ END Glitch hello-app default styles
 ******************************************************************************/
 
 body {
-  font-family: HK Grotesk;
+  font-family: ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif;
   background-color: var(--color-bg);
 }
 
@@ -132,7 +128,7 @@ body {
 /* Very light scaling for our illustration */
 .title {
   color: #041e3d;
-  font-family: HK Grotesk;
+  font-family: ShermanSans,"Trebuchet MS",Tahoma,Verdana,sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 100px;
